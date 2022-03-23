@@ -1,0 +1,8 @@
+button {
+    display: flex;
+    justify-content: center;
+    text-decoration: dotted;
+    color: blue;
+    height: 20px;
+    width: 100px;
+}
