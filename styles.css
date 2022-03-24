@@ -1,6 +1,11 @@
-button {
+.container{
     display: flex;
     justify-content: center;
+    margin-top: 200px;
+}
+
+
+button {
     text-decoration: dotted;
     color: blue;
     height: 20px;
